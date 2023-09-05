@@ -1,4 +1,5 @@
 LINE one
+I have updated the file. testing testing testin
 line two
 line three
 added line in new_branch
